@@ -30,7 +30,7 @@ This project serves as a template for building React applications using Vite. It
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sane-RK9/about_me.git
 cd <repository-directory>
 npm install
 ```
